@@ -1,0 +1,57 @@
+#login{
+	float:right;
+	margin-right: 0%;
+	width: 25%;
+    height: 10%;
+    border: black 0px solid;
+    text-align: center;
+    padding: 1px;
+}
+
+footer{
+	position: absolute;
+	left: 5%;
+	top:70%;
+	width:90%;
+	height: 20%;
+	border: black 2px dashed;
+	border-radius: 10px;
+
+}
+
+body{
+
+	background-color: cyan;
+
+}
+
+
+
+
+#descrip{
+
+	position: absolute;
+	top: 45%;
+	left: 5%;
+	border: black 2px dashed;
+	border-radius: 10px;
+	width:90%;
+	height: 20%;
+}
+
+#titu{
+	position: absolute;
+	left: 33%;
+	
+
+}
+
+img{
+
+	position: absolute;
+	top:12%;
+	down:10%;
+	left: 35%;
+	height: 30%;
+	width: 30%;
+}
